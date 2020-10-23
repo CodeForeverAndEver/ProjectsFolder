@@ -61,3 +61,6 @@ This results in a nice, smooth interpolation:
 2. https://jackschaedler.github.io/circles-sines-signals/trig_review.html
 3. https://en.wikipedia.org/wiki/Linear_interpolation
 4. https://gamedev.net/forums/topic/533790-cosine-interpolation/4450263/
+
+### Disclaimer
+The code I wrote for this project is in no way intended to be well written. I just wanted to make a quick and dirty example of how interpolation could be used. Thanks!
